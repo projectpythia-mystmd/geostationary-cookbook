@@ -9,3 +9,5 @@ dependencies:
   - satpy
   - matplotlib
   - pandas
+  - pip:
+    - pip install --upgrade nbclient
