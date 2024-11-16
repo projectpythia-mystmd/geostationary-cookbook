@@ -1,7 +1,11 @@
-name: cookbook-dev
+name: cookbook-geosat
 channels:
   - conda-forge
 dependencies:
   - jupyter-book
   - jupyterlab
   - sphinx-pythia-theme
+  - xarray
+  - satpy
+  - matplotlib
+  - pandas
